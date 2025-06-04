@@ -65,9 +65,7 @@ CO2 Company의 과거 판매 데이터를 분석하고, 2015년 11월 매출을 
 ### ✅ 데이터 설명 (Dataset Description)
 
 - **데이터 출처**
-
   Kaggle Predict Future Sales 
-
   https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales
 
   
