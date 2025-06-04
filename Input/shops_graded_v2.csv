@@ -1,0 +1,62 @@
+shop_name,shop_id,shop_grade
+"! Yakutsk Ordzhonikidze, 56",0,closed
+"! Yakutsk shopping center ""central"" fran",1,closed
+"Adygea shopping center ""Mega""",2,C
+"Balashikha TRK ""October-Kinomir""",3,C
+"Volzhsky shopping center ""Volga Mall""",4,C
+"Vologda shopping mall ""Marmelad""",5,C
+"Voronezh (Plekhanovskaya, 13)",6,A
+"Voronezh shopping center ""Maksimir""",7,B
+"Voronezh shopping center City Park ""Grad""",8,closed
+Exit trade,9,D
+Zhukovsky st.Chkalova 39m?,10,D
+Zhukovsky st.Chkalova 39m©÷,11,D
+Online store of emergency,12,A
+"Kazan Shopping Center ""Bashetle""",13,closed
+"Kazan shopping center ""Parkhouse"" II",14,C
+"Kaluga shopping center ""XXI century""",15,B
+"Kolomna shopping center ""Rio""",16,B
+"Krasnoyarsk shopping center ""Plaza take -off""",17,D
+"Krasnoyarsk shopping center ""June""",18,B
+"Kursk shopping center ""Pushkinsky""",19,B
+"Moscow ""Sale""",20,A
+"Moscow MTRC ""Afers Mall""",21,A
+Moscow shop C21,22,B
+"Moscow TC ""Budenovsky"" (Pav. a2)",23,closed
+"Moscow TC ""Budenovsky"" (Pav.k7)",24,B
+"Moscow TRK ""Atrium""",25,A
+"Moscow shopping center ""Areal"" (Belyaevo)",26,B
+"Moscow shopping center ""Mega white cottage II""",27,A
+"Moscow shopping center ""Mega Teply Stan"" II",28,A
+"Moscow shopping center ""New Age"" (Novokosino)",29,B
+"Moscow shopping center ""Perlovsky""",30,C
+"Moscow shopping center ""Semenovsky""",31,A
+"Moscow shopping center ""Silver House""",32,closed
+"Mytishchi TRK ""XL-3""",33,D
+"N. Novgorod shopping center ""Rio""",34,D
+"N. Novgorod shopping mall ""Fantastic""",35,B
+"Novosibirsk shopping center ""Gallery Novosibirsk""",36,D
+"Novosibirsk shopping center ""mega""",37,C
+"Omsk shopping center ""Mega""",38,B
+"Rostov on the Don TRK ""Megacenter Horizon""",39,D
+"Rostov on the Don TRK ""Megacenter Horizon"" island",40,D
+"Rostov on the Don shopping center ""Mega""",41,D
+"SPb TK ""Nevsky Center""",42,A
+"SPb TK ""Sennaya""",43,A
+"Samara shopping center ""Melody""",44,D
+"Samara shopping center ""Parkhouse""",45,D
+"Sergiev Posad shopping center ""7ya""",46,B
+"Surgut shopping mall ""City Mall""",47,A
+"Tomsk shopping center ""Emerald City""",48,C
+"Tyumen shopping center ""Crystal""",49,D
+"Tyumen TEC ""Goodwin""",50,C
+"Tyumen TEC ""Green Coast""",51,D
+"Ufa TC ""Central""",52,C
+"Ufa shopping center ""Family"" 2",53,C
+"Khimki shopping center ""mega""",54,A
+Digital warehouse 1-online,55,A
+"Chekhov shopping center ""Carnival""",56,C
+"Yakutsk Ordzhonikidze, 56",57,A
+"Yakutsk shopping center ""Central""",58,B
+"Yaroslavl shopping center ""Altair""",59,C
+,,
