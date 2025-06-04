@@ -101,5 +101,4 @@ optuna 를 사용하여 하이퍼파라미터 튜닝 + feature importance가 낮
 ------
 
 ### ✅ 시각화 및 주요 인사이트 (Visualizations & Key Insights)
-
- [datathon_predict_sales_CO2_보고서_v7.pdf](..\Users\juwonhee\OneDrive\바탕 화면\datathon_predict_sales_CO2_보고서_v7.pdf) 
+(https://github.com/wonhee126/DATATHON/blob/ab849a19bc898485cd601a0fe18e2a6eedadea49/Output/datathon_predict_sales_CO2_%EB%B3%B4%EA%B3%A0%EC%84%9C_v7.pdf)
